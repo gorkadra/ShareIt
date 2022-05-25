@@ -36,9 +36,16 @@ public class SumarPDF extends Worker {
         String degree = getInputData().getString("degree");
         String asig = getInputData().getString("asignatura");
         String url = getInputData().getString("imgURl");
-        StringBuilder ured = new StringBuilder(url);
-        ured.deleteCharAt(0);
-        url = ured.toString();
+
+        if (url.equals("")){
+            url="http://164.90.169.73:3000/";
+        }else{
+            StringBuilder ured = new StringBuilder(url);
+            ured.deleteCharAt(0);
+            url = ured.toString();
+        }
+
+
         Log.d("url de la imagen ", url);
         String parametros = "email="+ correo +"&titulo="+ nombre +"&descripcion="+ desc +"&url="+ url +"&degree="+ degree +"&asignatura="+ asig;
         try {
