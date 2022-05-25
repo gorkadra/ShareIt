@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_description">Gure aplikazioa unibertsitateko ikasleen artean apunteak partekatzeko diseinatuta dago, ikaskuntza errazteko.</string>
+    <string name="cancel">Atzera</string>
+    <string name="email">Email</string>
+    <string name="email_already_registered">Email-a jada erregistratuta dago</string>
+    <string name="fill_all_gaps">Eremu guztiak bete behar dira</string>
+    <string name="gotit">Ados</string>
+    <string name="incorrect_user_pass">Erabiltzailea edo pasahitza okerrak</string>
+    <string name="info">Informazioa</string>
+    <string name="lang_change">"Hizkuntza aldatu "</string>
+    <string name="lang_en">Ingelesa</string>
+    <string name="lang_es">Gaztelera</string>
+    <string name="lang_eu">Euskara</string>
+    <string name="lang_select">Aukeratu hizkuntza</string>
+    <string name="login">Saioa hasi</string>
+    <string name="password">Pasahitza</string>
+    <string name="pass_not_secure">Pasahitzak gutxienez 6 karaktere izan behar ditu, eta gutxienez letra larri bat, zenbaki bat eta karaktere berezi bat izan behar ditu</string>
+    <string name="signup">Erregistratu</string>
+    <string name="start">Hasi</string>
+    <string name="username">Izena</string>
+    <string name="welcome">Ongi Etorri</string>
+    <string name="lost">Galdutako objektuak</string>
+    <string name="search_notes">"Apunteak bilatu "</string>
+    <string name="settings">Konfigurazioa</string>
+    <string name="share">Partekatu</string>
+    <string name="my_account">Nire Kontua</string>
+    <string name="close_account">Itxi Saioa</string>
+    <string name="found">Aurkitutako objektuak</string>
+    <string name="ap_obtener">Apunteak lortu</string>
+    <string name="ap_subir">Apunteak igo</string>
+    <string name="mm_apuntes">Apunteak</string>
+    <string name="mm_menu">Eguneko menua</string>
+    <string name="remember">Gogoratu erabiltzailea</string>
+    <string name="rep_password">Errepikatu pasahitza</string>
+    <string name="sop_asignatura">Irakasgaia</string>
+    <string name="sop_bt">Objektua erregistratu</string>
+    <string name="sop_correo">Helbide elektronikoa</string>
+    <string name="sop_degree">Gradua</string>
+    <string name="sop_desc">Objektuaren deskribapena</string>
+    <string name="sop_imagen">Sartu irudi bat</string>
+    <string name="sa_bt">Apunteak igo</string>
+    <string name="mm_op">Galdutako objetuak</string>
+    <string name="mm_team">Garapen taldea</string>
+    <string name="sop_objeto">Izena</string>
+
+    <string-array name="sop_ep">
+        <item>Galduta</item>
+        <item>Aurkitua</item>
+    </string-array>
+    <string name="sa_titulo">Izena</string>
+    <string name="nav_open">Ireki</string>
+    <string name="nav_close">Itxi</string>
+    <string name="main_menu">Menu nagusia</string>
+</resources>

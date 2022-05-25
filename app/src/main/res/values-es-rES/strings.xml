@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_description">Nuestra app está diseñada para compartir apuntes entre los estudiantes de la universidad para facilitar el aprendizaje.</string>
+    <string name="cancel">Cancelar</string>
+    <string name="email">Email</string>
+    <string name="email_already_registered">El email ya está registrado</string>
+    <string name="fill_all_gaps">Es necesario rellenar todos los campos</string>
+    <string name="found">Objetos encontrados</string>
+    <string name="gotit">Entendido</string>
+    <string name="incorrect_user_pass">Usuario o contraseña incorrectos</string>
+    <string name="info">Información</string>
+    <string name="lang_change">Cambiar idioma</string>
+    <string name="lang_en">Inglés</string>
+    <string name="lang_es">Español</string>
+    <string name="lang_eu">Euskera</string>
+    <string name="lang_select">Selecciona un idioma</string>
+    <string name="login">Inicia sesión</string>
+    <string name="lost">Objetos perdidos</string>
+    <string name="pass_not_secure">La contraseña debe tener una longitud mínima de 6 carácteres y debe incluir al menos una letra mayúscula, un número y un caracter especial</string>
+    <string name="password">Contraseña</string>
+    <string name="search_notes">Buscar apuntes</string>
+    <string name="settings">Ajustes</string>
+    <string name="share">Compartir</string>
+    <string name="signup">Regístrate</string>
+    <string name="start">Empezar</string>
+    <string name="username">Nombre</string>
+    <string name="welcome">"Bienvendido"</string>
+    <string name="my_account">Mi cuenta</string>
+    <string name="close_account">Cerrar sesión</string>
+    <string name="ap_obtener">Obtener apuntes</string>
+    <string name="ap_subir">Subir apuntes</string>
+    <string name="mm_apuntes">Apuntes</string>
+    <string name="mm_menu">Menú del día</string>
+    <string name="remember">Recordar este usuario</string>
+    <string name="rep_password">Repite la contraseña</string>
+    <string name="sop_asignatura">Asignatura</string>
+    <string name="sop_bt">Registrar objeto perdido</string>
+    <string name="sop_correo">Correo electrónico</string>
+    <string name="sop_degree">Grado</string>
+    <string name="sop_desc">Descripción del objeto</string>
+    <string name="sop_imagen">Inserta una imagen</string>
+    <string name="sa_bt">Subir apuntes</string>
+    <string name="mm_op">Objetos perdidos</string>
+    <string name="mm_team">Equipo de desarrollo</string>
+    <string name="sop_objeto">Nombre</string>
+
+    <string-array name="sop_ep">
+        <item>Perdido</item>
+        <item>Encontrado</item>
+    </string-array>
+    <string name="sa_titulo">Título</string>
+    <string name="nav_open">Abrir</string>
+    <string name="nav_close">Cerrar</string>
+    <string name="main_menu">Menú principal</string>
+</resources>

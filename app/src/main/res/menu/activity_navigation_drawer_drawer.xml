@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:id="@+id/group_menu"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_menu"
+            android:title="@string/main_menu" />
+    </group>
+
+    <group
+        android:id="@+id/group_menu_opt"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_apuntes"
+            android:title="@string/mm_apuntes" />
+        <item
+            android:id="@+id/nav_lost"
+            android:title="@string/mm_op" />
+        <item
+            android:id="@+id/nav_menudeldia"
+            android:title="@string/mm_menu" />
+    </group>
+
+    <group
+        android:id="@+id/group_account"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_logout"
+            android:title="@string/close_account" />
+    </group>
+</menu>

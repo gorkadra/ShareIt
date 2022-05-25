@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <activity
+        android:id="@+id/nav_menu"
+        android:name="com.example.salvarelcuatri.activity.MainMenuActivity"
+        tools:layout="@layout/nav_activity_main_menu" />
+
+    <activity
+        android:id="@+id/nav_apuntes"
+        android:name="com.example.salvarelcuatri.activity.ApuntesActivity"
+        tools:layout="@layout/nav_activity_apuntes" />
+
+    <activity
+        android:id="@+id/nav_lost"
+        android:name="com.example.salvarelcuatri.activity.LostObjectsActivitylv"
+        tools:layout="@layout/nav_activity_lost_objects" />
+
+    <activity
+        android:id="@+id/nav_menudeldia"
+        android:name="com.example.salvarelcuatri.activity.MenuDelDiaActivity"
+        tools:layout="@layout/nav_activity_menudeldia" />
+</navigation>
